@@ -1,6 +1,8 @@
 # Advanced NLP-Powered Resume-Screener
 An AI-driven application that leverages cutting-edge NLP technologies to streamline the recruitment process by accurately matching resumes to job descriptions. This project incorporates BERT-based models for candidate-job matching and utilizes AWS Lambda for scalable, efficient processing.
 
+ ![image](https://github.com/user-attachments/assets/27047b31-3b52-42d4-b661-3d403de0fde7)
+
 ## Project Overview
 This project uses advanced natural language processing (NLP) techniques to automate and enhance resume screening. By integrating BERT models and cloud-based automation, the screener achieves high accuracy in candidate-job matching and significantly reduces recruitment processing time.
 
